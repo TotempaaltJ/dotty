@@ -13,9 +13,9 @@ Github PR.
 
 # Project Non-Goals
 * Become a package manager.
-* Suggestion: Manage plugins of any other applications.
+* Manage plugins of any other applications.
 
 # Guiding Principles
 * Stay in scope.
-* Suggestion: Make simple things easy and difficult things possible.
+* Make simple things easy and difficult things possible.
 * Contribution-friendly: low barrier to entry, easy to understand codebase.
