@@ -17,5 +17,5 @@ Github PR.
 
 # Guiding Principles
 * Stay in scope.
-* Suggestion: Easy does it: usability over complexity.
+* Suggestion: Make simple things easy and difficult things possible.
 * Contribution-friendly: low barrier to entry, easy to understand codebase.
